@@ -89,6 +89,7 @@ export default {
   .title {
     text-align: right;
     width: 50%;
+    vertical-align: middle;
   }
 
   .status {
