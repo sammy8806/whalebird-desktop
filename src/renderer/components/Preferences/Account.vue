@@ -29,8 +29,7 @@
           </template>
         </el-table-column>
         <el-table-column
-          :label="$t('preferences.account.order')"
-          width="60">
+          :label="$t('preferences.account.order')">
           <template slot-scope="scope">
             <div>
               <el-button class="arrow-up" type="text" icon="el-icon-arrow-up" @click.native.prevent="forward(scope.$index, accounts)"></el-button>
