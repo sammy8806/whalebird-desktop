@@ -3,7 +3,7 @@
     "application": {
       "name": "Whalebird",
       "about": "Über Whalebird",
-      "preferences": "Einstellungen...",
+      "preferences": "Einstellungen",
       "services": "Dienste",
       "hide": "Whalebird verstecken",
       "hide_others": "Andere verstecken",
@@ -38,8 +38,8 @@
     "show_profile": "Profil ansehen",
     "edit_profile": "Profil bearbeiten",
     "home": "Home",
-    "notification": "Benachrichtigung",
-    "favourite": "Favorit",
+    "notification": "Benachrichtigungen",
+    "favourite": "Favoriten",
     "local": "Lokale Timeline",
     "public": "Öffenliche Timeline",
     "hashtag": "Hashtag",
@@ -48,8 +48,8 @@
   },
   "header_menu": {
     "home": "Home",
-    "notification": "Benachrichtigung",
-    "favourite": "Favorit",
+    "notification": "Benachrichtigungen",
+    "favourite": "Favoriten",
     "local": "Lokale Timeline",
     "public": "Öffenliche Timeline",
     "hashtag": "Hashtag",
@@ -106,7 +106,7 @@
     },
     "language": {
       "title": "Sprache",
-      "display_language": "sprache",
+      "display_language": "Sprache",
       "notice": "Erfordert Neustart",
       "confirm": {
         "title": "Warnung",
@@ -119,7 +119,7 @@
   "modals": {
     "new_toot": {
       "title": "Neuer Toot",
-      "cw": "Schreibe hier deine Warnung",
+      "cw": "Schreibe hier deine Inhaltswarnung",
       "status": "Was geht dir durch den Kopf?",
       "cancel": "Abbrechen",
       "toot": "Toot",
@@ -167,7 +167,7 @@
   "search": {
     "search": "Suche",
     "account": "Konto",
-    "keyword": "stichwort"
+    "keyword": "Stichwort"
   },
   "lists": {
     "index": {
@@ -182,7 +182,7 @@
   },
   "authorize": {
     "manually_1": "Jetzt wird die Zugriffsseite in deinem Browser geöffnet.",
-    "manually_2": "Falls nicht, öffne bitte die folgende URL von Hand.",
+    "manually_2": "Falls nicht, öffne bitte die folgende URL von Hand:",
     "code_label": "Bitte füge den Zugrifsscode aus dem Browser ein:",
     "submit": "Absenden"
   },
@@ -197,7 +197,7 @@
     "notification_fetch_error": "Benachrichtigung konnte nicht abgerufen werden",
     "favourite_fetch_error": "Favorit konnte nicht abgerufen werden",
     "start_streaming_error": "Streaming konnte nicht gestartet werden",
-    "attach_error": "Kontte Datei nicht anhängen",
+    "attach_error": "Konnte Datei nicht anhängen",
     "authorize_duplicate_error": "Kann nicht das gleiche Konto der gleichen Domain einloggen",
     "authorize_error": "Autorisierung fehlgeschlagen",
     "followers_fetch_error": "Follower konnten nicht abgerufen werden",
@@ -205,7 +205,7 @@
     "toot_fetch_error": "Die Toot-Details konnten nicht abgerufen werden",
     "follow_error": "Konnte dem Benutzer nicht folgen",
     "unfollow_error": "Konnte das Folgen des Benutzer nicht beenden",
-    "lists_fetch_error": "Konte Listen nicht abrufen",
+    "lists_fetch_error": "Konnte Listen nicht abrufen",
     "list_create_error": "Konnte keine Liste erstellen",
     "members_fetch_error": "Konnte Mitglieder nicht abrufen",
     "remove_user_error": "Entfernen des Benutzers fehlgeschlagen",
@@ -219,7 +219,7 @@
     "toot_error": "Toot fehlgeschlagen",
     "update_list_memberships_error": "Konnte Listen-Mitgliedschaften nicht aktualisieren",
     "add_user_error": "Hinzufügen des Benutzers fehlgeschlagen",
-    "authorize_url_error": "Konnte Zugrifss-URL nicht laden",
+    "authorize_url_error": "Konnte Zugriffs-URL nicht laden",
     "domain_confirmed": "{{domain}} ist bestätigt, bitte einloggen",
     "domain_doesnt_exist": "{{domain}} existiert nicht",
     "loading": "Laden..."
